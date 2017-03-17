@@ -6,8 +6,13 @@ inserting values into a table that handles plant veg time
 viewing plant veg time table
 
 To come:
+
 automatically updates grow times
+
 gui
+
 table updates
+
 plant flower time
+
 nutrient / watering tracking
